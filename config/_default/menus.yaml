@@ -1,68 +1,64 @@
 main:
   # 소개 메뉴
-  - name: Introduction
+  - name: About
     url: people
     weight: 200
-  - parent: Introduction
-    name: My Profile
-    url: /author/강경태/
+  - parent: About
+    name: me
+    url: /author/김현아/
     weight: 210
-  - parent: Introduction
-    name: My Pet
+  - parent: About
+    name: goals
     url: people
     weight: 220
 
-  # 관심사와 프로젝트 메뉴
-  - name: Passion & Work
+  # work
+  - name: Work
     url: publication
     weight: 300
-  - parent: Passion & Work
-    name: My Interests
+  - parent: Work
+    name: publications
     url: publication
     weight: 310
-  - parent: Passion & Work
-    name: My Projects
+  - parent: Work
+    name: projects
     url: field
     weight: 320
 
-  # 캠퍼스 생활 메뉴
-  - name: University Life
+  # univ
+  - name: Univ
     url: publication
     weight: 330
-  - parent: University Life
-    name: Achievements
+  - parent: Univ
+    name: activities
     url: /Campus Life/Awards/
     weight: 340
-  - parent: University Life
-    name: Activities
-    url: /Campus Life/Activities/
-    weight: 350
+  - #parent: University Life
+    #name: Activities
+    #url: /Campus Life/Activities/
+    #weight: 350
 
-  # 알림 메뉴
-  - name: Updates
+  # interests
+  - name: Interests
     url: post
     weight: 600
-  - parent: Updates
-    name: Notifications
-    url: notification
-    weight: 610
-  - parent: Updates
-    name: News
-    url: post
-    weight: 620
-  - parent: Updates
-    name: Events
-    url: event
-    weight: 630
+  #- parent: Updates #publication일듯
+  #  name: Notifications
+  #  url: notification
+  #  weight: 610
+  #- parent: Updates
+  #  name: News
+  #  url: post
+  #  weight: 620
+  #- parent: Updates
+  #  name: Events
+  #  url: event
+  #  weight: 630
 
   # 정보 메뉴
   - name: Info
     url: information
     weight: 800
-  - parent: Info
-    name: About
-    url: about
-    weight: 810
   - parent: Info
     name: Contact 
     url: contact
