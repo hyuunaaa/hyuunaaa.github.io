@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부 22학번 김현아 </span> <br>
-      email: cloe@naver.com
-      phone: 010-xxxx-xxxx
+        <br> <span style="font-size:80%">전북대학교 IT지능정보공학과 김현아 </span> <br>
+      email: chris2cloe@naver.com
+      phone: 010-6488-6008
       address:
         street: 전북대학교
         city: 전주시
