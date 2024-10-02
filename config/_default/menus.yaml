@@ -8,7 +8,7 @@ main:
     url: /author/김현아/
     weight: 210
   - parent: About
-    name: My Pet
+    name: About mypet
     url: people
     weight: 220
 
