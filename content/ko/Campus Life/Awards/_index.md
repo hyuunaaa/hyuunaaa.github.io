@@ -9,11 +9,11 @@ sections:
       subtitle: '활동 내역'
       text: ''
       items:
-        - title: 전북대학교 OOOOOOOOOO
+        - title: 전북대학교 입학
           certificate_url: ''
-          date_start: '01 Dec 2023'
-          date_end: '03 Dec 2023'
-          description: 'OOOO'
+          date_start: '2022-03-02'
+          date_end: |
+          #description: 'OOOO'
           icon: academic-cap
           organization: 전북대학교
           organization_url: ''
