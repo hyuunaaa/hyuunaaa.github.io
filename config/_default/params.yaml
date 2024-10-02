@@ -5,8 +5,8 @@
 
 # Appearance settings
 appearance:
-  theme_night: custom
-  theme_day: custom
+  theme_night: default
+  theme_day: default
   font: native
   font_size: L
 
@@ -123,7 +123,7 @@ name: 김현아
 role: 학생
 organization: 전북대학교 컴퓨터공학부
 organization_url: 'https://https://it.jbnu.ac.kr/it/index.do'
-email: 'test@naver.com'
+email: 'chris2cloe@naver.com'
 
 # ogImage setting (Optional)
 ogImage: "assets/media/logo.png"  # Ensure the image exists at this path
