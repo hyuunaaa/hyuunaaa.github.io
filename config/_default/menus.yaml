@@ -5,12 +5,13 @@ main:
     weight: 200
   - parent: About
     name: me
-    url: /author/김현아/
+    url: people
     weight: 210
   - parent: About
     name: goals
-    url: people
+    url: /author/김현아/
     weight: 220
+  
 
   # work
   - name: Work

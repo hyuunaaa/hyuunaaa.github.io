@@ -3,7 +3,7 @@
 title: 김현아
 
 # Full Name (for SEO)
-first_name: Hyuna 김현아
+first_name: Hyuna 
 last_name: Kim
 
 # Username (this should match the folder name)
@@ -14,11 +14,11 @@ authors:
 superuser: true
 
 # Role/position
-role: 대학생
+role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: Hyuna's Blog
+  - name: **Hyuna's Blog**
     url: 'https://hyuunaaa.github.io/'
 
 
