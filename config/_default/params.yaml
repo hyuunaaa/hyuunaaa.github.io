@@ -18,8 +18,9 @@ marketing:
     org_name: '현아의 개발연습'
     description: '전북대학교 컴퓨터인공지능학부 김현아'
     twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: 'chris2cloe'
+  services:
+    google_analytics: 
+      id: 'chris2cloe'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
