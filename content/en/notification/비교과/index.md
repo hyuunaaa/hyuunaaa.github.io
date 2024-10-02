@@ -1,0 +1,22 @@
+---
+title: 2024/06/17~2024/07/10 OOOOOOOO 공모전
+date: 2024-06-17
+tags: ['태그#1', '태그#2']
+---
+
+**OOOOOOOOO 수상**
+
+OOOOOOOOOOOOOO
+
+### 프로젝트 의의
+OOOOOOOOOOOOOO
+
+---
+
+**프로그램 내용**
+- OOOOOOOOOOOOOO
+- OOOOOOOOOOOOOO
+- OOOOOOOOOOOOOO
+
+**성과 및 의의**
+OOOOOOOOOOOOOO
