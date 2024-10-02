@@ -5,8 +5,8 @@
 
 # Appearance settings
 appearance:
-  theme_night: default
-  theme_day: default
+  theme_night: custom
+  theme_day: custom
   font: native
   font_size: L
 
