@@ -14,27 +14,28 @@ authors:
 superuser: true
 
 # Role/position
-role: 대학생
+role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: Hyuna's Blog
+  - name: 전북대학교 IT지능정보공학과
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 전북대학교 IT지능정보공학과에 재학중인 김현아입니다. 좋아하는 사람들과 행복한 미래를 위해 (admin)
 
 interests:
-  - 리버스엔지니어링
   - 인공지능 및 딥러닝
-  - 영화
-  - 
+  - 영상처리
+  - 리버스 엔지니어링
+  - 시스템 보안
+
 
 education:
   courses:
     - course: IT지능정보공학과
       institution: 전북대학교(JBNU)
-    - course: 일반계
+    - course: 일반계(인문계)
       institution: 대덕고등학교
 
 
@@ -72,4 +73,4 @@ user_groups:
 
 ---
 
-test2222프로그래밍 & 리버싱에 관심이 많습니다. 이런 내용 위주로 작성
+test2222프로그래밍 & 리버싱에 관심이 많습니다. 이런 내용 위주로 작성 뿌부부부
