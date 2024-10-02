@@ -25,8 +25,8 @@ organizations:
 bio: OOOOOOOOOOOOO입니다.(admin)
 
 interests:
-  - 관심분야#1
-  - 관심분야#2
+  - 컴퓨터 ...
+  - 리버스엔지니어링
   - 관심분야#3
   - 관심분야#4
 
@@ -72,4 +72,4 @@ user_groups:
 
 ---
 
-OOOOOOOOOO 합니다~~
+프로그래밍 & 리버싱에 관심이 많습니다. 이런 내용 위주로 작성

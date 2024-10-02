@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 햄찌
+title: 기백이
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,7 +8,7 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 햄찌
+  - 기백이
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: 귀요미 담당
 
 # Organizations/Affiliations
 organizations:
-  - name: 現전국 귀염뽀짝 연맹 대표 <br> 前전국 햄스터 클럽 부대표
+  - name: 집돌이
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
