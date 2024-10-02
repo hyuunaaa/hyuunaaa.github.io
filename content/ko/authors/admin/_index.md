@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <b>김현아</b>
+title: "<strong>김현아</strong>"
 
 # Full Name (for SEO)
 first_name: Hyuna
@@ -36,7 +36,7 @@ education:
   courses:
     - course: IT지능정보공학과
       institution: 전북대학교
-    - course: 일반계(인문계)
+    - course: 인문계
       institution: 대덕고등학교
 
 
