@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "**김현아**"
+title: <b>김현아</b>
 
 # Full Name (for SEO)
 first_name: Hyuna
