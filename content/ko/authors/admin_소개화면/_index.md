@@ -25,17 +25,17 @@ organizations:
 bio: 전북대학교 IT지능정보공학과에 재학중인 김현아입니다. 좋아하는 사람들과 행복한 미래를 위해 
 
 interests:
-  - 컴퓨터 ...
   - 리버스엔지니어링
-  - 관심분야#3
-  - 관심분야#4
+  - 인공지능 및 딥러닝
+  - 영화
+  - 
 
 education:
   courses:
-    - course: 컴퓨터공학부
+    - course: IT지능정보공학과
       institution: 전북대학교(JBNU)
-    - course: 일반계(이공계열)
-      institution: 고등학교
+    - course: 일반계
+      institution: 대덕고등학교
 
 
 # Social/Academic Networking
