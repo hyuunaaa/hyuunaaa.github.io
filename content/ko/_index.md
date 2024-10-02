@@ -25,7 +25,7 @@ sections:
       title: About me
       text: |- 
         <span class="justified-text" style="color: gray;">
-        안녕하세요! 저는...소개합니다.
+        안녕하쇼
         </span>
 
   - block: features
