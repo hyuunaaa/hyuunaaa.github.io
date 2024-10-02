@@ -40,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://hyuunaa.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/이력서.pdf'
+url_pdf: 'https://hyuunaaa.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/이력서.pdf'
 # url_code: ''
 # url_dataset: '{{url_dataset}}'
 # url_poster: '{{url_poster}}'
