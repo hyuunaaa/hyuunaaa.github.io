@@ -51,7 +51,7 @@ social:
     link: https://github.com/hyuunaaa
   - icon: cv
     icon_pack: ai
-    link: 'https://hyuunaaa.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/test.pdf'
+    link: 'https://hyuunaaa.github.io/publication/0020-fine-grained-binary-object-segmentation-in-remote-sensing-imagery-via-path-selective-test-time-adaptation/이력서.pdf'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
