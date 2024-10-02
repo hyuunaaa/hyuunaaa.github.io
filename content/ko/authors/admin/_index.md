@@ -1,6 +1,6 @@
 ---
 # Display name
-title: __김현아__
+title: 김현아
 
 # Full Name (for SEO)
 first_name: Hyuna
@@ -18,11 +18,12 @@ role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: __전북대학교 IT지능정보공학과__
+  - name: 전북대학교 IT지능정보공학과
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 IT지능정보공학과에 재학중인 김현아입니다. 좋아하는 사람들과 행복한 미래를 위해 (admin)
+bio: bio: 최종적으로 행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다. (admin)
+
 
 interests:
   - 인공지능 및 딥러닝
@@ -34,7 +35,7 @@ interests:
 education:
   courses:
     - course: IT지능정보공학과
-      institution: 전북대학교(JBNU)
+      institution: 전북대학교
     - course: 일반계(인문계)
       institution: 대덕고등학교
 
@@ -73,4 +74,4 @@ user_groups:
 
 ---
 
-test2222프로그래밍 & 리버싱에 관심이 많습니다. 이런 내용 위주로 작성 뿌부부부
+최종적으로 행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
