@@ -18,7 +18,7 @@ role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: 현아의 개발연습
+  - name: Hyuna's Blog
     url: 'https://hyuunaaa.github.io/'
 
 
@@ -26,7 +26,7 @@ organizations:
 bio: 자기소개합니다.
 
 interests:
-  - 관심분야#1
+  - 안녕하쇼
   - 관심분야#2
   - 관심분야#3
   - 관심분야#4
