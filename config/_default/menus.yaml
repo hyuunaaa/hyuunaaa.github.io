@@ -1,14 +1,14 @@
 main:
   # 소개 메뉴
-  - name: About
+  - name: Introduction
     url: people
     weight: 200
-  - parent: About
-    name: About me
-    url: /author/김현아/
+  - parent: Introduction
+    name: My Profile
+    url: /author/강경태/
     weight: 210
-  - parent: About
-    name: About mypet
+  - parent: Introduction
+    name: My Pet
     url: people
     weight: 220
 

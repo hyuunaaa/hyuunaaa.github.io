@@ -22,7 +22,7 @@ organizations:
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 IT지능정보공학과에 재학중인 김현아입니다. 좋아하는 사람들과 행복한 미래를 위해 
+bio: 전북대학교 IT지능정보공학과에 재학중인 김현아입니다. 좋아하는 사람들과 행복한 미래를 위해 (admin)
 
 interests:
   - 리버스엔지니어링
