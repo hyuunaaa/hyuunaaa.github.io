@@ -22,7 +22,7 @@ organizations:
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: bio: 최종적으로 행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.(admin)
+bio: 최종적으로 행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.(admin)
 
 
 interests:
