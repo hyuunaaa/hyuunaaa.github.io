@@ -1,6 +1,6 @@
 ---
 # Display name
-title: **김현아**
+title: __김현아__
 
 # Full Name (for SEO)
 first_name: Hyuna
@@ -18,7 +18,7 @@ role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: **전북대학교 IT지능정보공학과**
+  - name: __전북대학교 IT지능정보공학과__
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
