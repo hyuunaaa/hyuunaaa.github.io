@@ -18,11 +18,11 @@ role: 대학생
 
 # Organizations/Affiliations
 organizations:
-  - name: 현아의 OOO
+  - name: Hyuna's Blog
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: OOOOOOOOOOOOO입니다.(admin)
+bio: 전북대학교 IT지능정보공학과에 재학중인 김현아입니다. 좋아하는 사람들과 행복한 미래를 위해 
 
 interests:
   - 컴퓨터 ...
