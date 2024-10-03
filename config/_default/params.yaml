@@ -42,7 +42,7 @@ header:
     highlight_active_link: false
     logo:
       text: ""  # Text for logo (if any)
-      filename: "logo.png"  # Ensure the file exists in `assets/media/`
+      filename: "icon.jpg"  # Ensure the file exists in `assets/media/`
     button:
       enable: true
       text: "김현아"
@@ -122,7 +122,7 @@ publications:
 # Personal information
 name: 김현아
 role: 학생
-organization: 전북대학교 컴퓨터공학부
+organization: 전북대학교 IT지능공학과
 organization_url: 'https://https://it.jbnu.ac.kr/it/index.do'
 email: 'chris2cloe@naver.com'
 
