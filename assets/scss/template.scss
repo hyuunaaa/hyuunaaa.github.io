@@ -43,3 +43,17 @@ header, nav {
 .cta-group a:hover {
   background-color: #FFD700; /* 노란색 */
 }
+
+/* 양쪽 정렬 클래스 */
+.text-justify {
+  text-align: justify !important; /* 양쪽 정렬을 강제로 적용 */
+  margin: 0 auto; /* 수평 중앙 정렬 */
+  padding: 0; /* 패딩 제거 */
+  width: 90%; /* 너비를 조정하여 화면에 더 많은 공간을 사용 */
+  max-width: 100%; /* 최대 너비를 화면 전체로 */
+}
+.container, .content, .post-content {
+  max-width: 100% !important; /* 최대 너비를 100%로 확장 */
+  margin: 0 auto; /* 수평 중앙 정렬 */
+  padding: 0 20px; /* 좌우 여백 */
+}

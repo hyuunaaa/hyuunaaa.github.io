@@ -1,5 +1,5 @@
 ---
-title: '런닝의 효과에 대하여'
+title: 'Study on Mitigating Open Source Vulnerabilities'
 
 # Authors
 authors:
@@ -22,13 +22,17 @@ publishDate: '2024-03-20'
 publication_types: ['article-journal']
 
 abstract: |
-  **OOOO**:  ooooooooooo
+  **목차**:  
 
-  **OOOO**:  ooooooooooo
+  **3.1 Definition of Open Source**
+  Open Source refers to making the programming source code, which is essential in the development of computer programs, accessible and available for everyone to view. It is commonly used in most programs that we frequently use, such as web browsers, games, chat applications, and word processors. Representative sites where source code can be downloaded include GNU, GitHub, Codeproject, and CodeGuru. Each open-source project comes with its own licensing policy, ranging from completely free, partially paid, to mandatory copyright attribution.
 
-summary: "런닝 요약문 입니다."
+  **3.2 Trends/Problems**
+  Currently, there are over 40 million open-source projects, and it is projected that this number will increase more than tenfold by 2026. In such circumstances, most company developers today use open source as a means to develop programs quickly in response to the ever-changing market demands. Many developers apply open source to their programs under the belief that it is safe since it is openly managed and maintained by many people, often overlooking the potential security vulnerabilities inherent in open source.
 
-tags: ['태그#1', '태그#2', '태그#3']
+summary: "The use of open source is increasing by more than 20% annually worldwide, and at the same time, open-source security vulnerabilities are steadily rising by about 2,000 to 3,000 each year. In other words, the openness of open source also means that its security vulnerabilities are exposed, making it a target for hacking. Therefore, with the increase in open source usage, the risk of hacking also rises. This piqued my interest in finding ways to minimize the damage caused by open-source vulnerabilities, leading me to research and analyze this topic."
+
+tags: ['Opensource', 'Vulnerabilities', 'Cyber security']
 
 # Display this page in the Featured widget?
 featured: true
