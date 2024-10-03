@@ -25,24 +25,24 @@ sections:
       title: About me
       text: |- 
         <span class="justified-text" style="color: gray;">
-        안녕하쇼
+        최종적으로 행복하게 하고싶은 것 다하면서 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
         </span>
 
   - block: features
     id: features
     content:
-      title: "<span style=\"font-size:75%\">현아의 관심사</span>"
-      text: "저는 다음과 같은 주제에 관심이 있습니다.<br><br>"
+      title: "<span style=\"font-size:75%\">**My interests**</span>"
+      #text: "저는 다음과 같은 주제에 관심이 있습니다.<br><br>"
       items:
-        - name: 관심사#1
+        - name: 인공지능
           icon: brain
           icon_pack: fas
-          description: "<span style=\"font-size:90%\">기계학습, 딥러닝, RNN,FCN 컴퓨터 비전 등등</span>"
-        - name: 관심사#2
-          icon: running
+          description: "<span style=\"font-size:90%\">딥러닝, 시스템보안, 해킹 등등</span>"
+        - name: 보안
+          icon: shield-halved
           icon_pack: fas
-          description: "<span style=\"font-size:90%\">하루에 10km씩 런닝하며 체중감소</span>"
-        - name: 관심사#3
+          description: "<span style=\"font-size:90%\">시스템보안, 리버스 엔지니어링 등등</span>"
+        - name: 음악
           icon: music
           icon_pack: fas
           description: "<span style=\"font-size:90%\">꾀꼬리 같은 맑은 보이스의 소유자로서, 혼코노러버</span>"
@@ -165,7 +165,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: Activities
       count: 3
       offset: 0
       order: desc
@@ -181,7 +181,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: 내 프로젝트
+      title: Projects
       count: 3
       offset: 0
       order: desc
@@ -195,7 +195,7 @@ sections:
 
   - block: collection
     content:
-      title: 관심사 소개
+      title: Publications
       count: 3
       filters:
         author: ''
