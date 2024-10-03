@@ -62,18 +62,18 @@ sections:
 
   - block: features
     content:
-      title: "<span style=\"font-size:70%\">김현아의 포트폴리오 사이트</span>"
+      title: "<span style=\"font-size:70%\">**Hyuna's Portfolio**</span>"
       text: "<br><span style=\"font-size:125%\">김현아의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
   - block: slider
     content:
       slides:
-        - title: "<span style=\"font-size:70%\">공모전</span>"
-          content: "<span style=\"font-size:70%\">다양한 공모전에 관심있으십니까?</span>"
+        - title: "<span style=\"font-size:70%\">**Activities**</span>"
+          content: "<span style=\"font-size:70%\">대학에서의 다양한 활동</span>"
           align: center
           background:
             image:
-              filename: forest.jpg
+              filename: activities.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -83,14 +83,14 @@ sections:
             icon_pack: fas
             text: "Image 출처: Unsplash"
             text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2-%EC%86%8D-%EC%98%A4%EC%86%94%EA%B8%B8-GraajutbJHE"
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/three-person-pointing-the-silver-laptop-computer-2FPjlAyMQTA"
 
-        - title: "<span style=\"font-size:70%\">아웃소싱(외주)</span>"
-          content: "<span style=\"font-size:70%\">크몽이나 기타 외주를 받고싶으십니까?</span>"
+        - title: "<span style=\"font-size:70%\">**Interests**</span>"
+          content: "<span style=\"font-size:70%\">진로, 취업, 영화 등등</span>"
           align: center
           background:
             image:
-              filename: forest1.jpg
+              filename: interests.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -100,14 +100,14 @@ sections:
             icon_pack: fas
             text: "Image 출처: Unsplash"
             text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/foggy-mountain-summit-1Z2niiBPg5A"
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%92%80%EB%B0%AD%EC%97%90%EC%84%9C-%EB%8B%AC%EB%A6%AC%EB%8A%94-%ED%9D%B0%EC%83%89-shih-tzu-%EA%B0%95%EC%95%84%EC%A7%80%EC%9D%98-%EC%96%95%EC%9D%80-%EC%B4%88%EC%A0%90-%EC%82%AC%EC%A7%84-qO-PIF84Vxg"
 
-        - title: "<span style=\"font-size:70%\">코딩</span>"
-          content: "<span style=\"font-size:70%\">컴퓨터 과학이나 코딩에 관심있으십니까?</span>"
+        - title: "<span style=\"font-size:70%\">**Contact**</span>"
+          content: "<span style=\"font-size:70%\">이메일, 연락처, 위치</span>"
           align: center
           background:
             image:
-              filename: forest2.jpg
+              filename: contact.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -117,14 +117,14 @@ sections:
             icon_pack: fas
             text: "Image 출처: Unsplash"
             text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%EB%B3%84%EC%9D%B4-%EB%B9%9B%EB%82%98%EB%8A%94-%EB%B0%A4-1OtUkD_8svc"
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0-%ED%94%84%EB%A6%B0%ED%84%B0-%EC%A2%85%EC%9D%B4%EC%99%80-%EA%B2%80%EC%9D%80-%EB%B3%BC%ED%8E%9C-%EC%98%86%EC%97%90-%EC%8C%93%EC%9D%B8-%EC%B1%85-%EB%8D%94%EB%AF%B8-asviIGR3CPE"
 
-        - title: "<span style=\"font-size:70%\">런닝</span>"
-          content: "<span style=\"font-size:70%\">매일 10km씩 뛰면서 다이어트 하고싶으세요?</span>"
+        - title: "<span style=\"font-size:70%\">**Goals**</span>"
+          content: "<span style=\"font-size:70%\">대학원, 목표</span>"
           align: center
           background:
             image:
-              filename: 런닝.jpg
+              filename: goals.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -134,14 +134,14 @@ sections:
             icon_pack: fas
             text: "Image 출처: Unsplash"
             text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%8F%84%EB%A1%9C%EB%A5%BC-%EB%8B%AC%EB%A6%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-Apj4nSemkzk"
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/macbook-pro%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-744oGeqpxPQ"
 
-        - title: "<span style=\"font-size:70%\">대학원</span>"
-          content: "<span style=\"font-size:70%\">학부 공부를 넘어서 대학원진학에 관심있으세요?</span>"
+        - title: "<span style=\"font-size:70%\">**Me**</span>"
+          content: "<span style=\"font-size:70%\">기배기</span>"
           align: center
           background:
             image:
-              filename: 공부.jpg
+              filename: aboutme.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -151,7 +151,7 @@ sections:
             icon_pack: fas
             text: "Image 출처: Unsplash"
             text-color: '#fff'
-            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EC%84%B8%EB%9D%BC%EB%AF%B9-%EB%A8%B8%EA%B7%B8%EC%9E%94-%EA%B7%BC%EC%B2%98%EC%9D%98-%EA%B0%88%EC%83%89-%EB%82%98%EB%AC%B4-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C-s9CC2SKySJM"
+            url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/snowman-near-the-people-and-trees-at-sunset-TU8oZ2YYNlU"
 
     design:
       slide_height: '350px'
