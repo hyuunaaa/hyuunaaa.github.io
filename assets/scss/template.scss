@@ -7,7 +7,9 @@ $header-text-color: #ffffff;
 
 // 페이지 헤더 정렬
 .universal-wrapper h1 {
-  text-align: center;
+//  text-align: center;
+    max-width: 100%; /* 최대 너비 제한 해제 */
+    margin: 0; /* 좌우 여백 제거 */
 }
 
 // CTA 버튼 중앙 정렬
