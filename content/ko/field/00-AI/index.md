@@ -1,24 +1,7 @@
 ---
-title: OOO 테스트
-date: 2024-03-31
-tags: ['태그#1', '태그#2']
+title: 리버스엔지니어링 온라인과정 수료 및 오프라인 챌린지 참여
+date: 2024-07-19
+tags: ['리버스엔지니어링', '대회']
 ---
 
-OOOOOOOOOOOOOOOOOOO
-
-<!--more-->
-
-1. **로그인 시스템**  
-OOOOOOOOOOOOOOOOOOO
-
-2. **활동 내용 및 동아리 공지**  
-OOOOOOOOOOOOOOOOOOO
-
-3. **동아리 가입 신청**  
-OOOOOOOOOOOOOOOOOOO
-
-**프로젝트 의의**  
-OOOOOOOOOOOOOOOOOOO
-
-**링크**  
-[사이트](https://ooo.ooo.com)
+한국인터넷진흥원에서 실시하는 2024 실전형 사이버훈련장(침해사고 대응훈련) 리버스 엔지니어링 과정을 수료하고, 30명 내에 뽑혀 판교에서 열린 전북지역 대학생 특별 과정 미니 챌린지(리버스 코드 엔지니어링)에 참여하였다.
