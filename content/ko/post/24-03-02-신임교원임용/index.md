@@ -1,5 +1,5 @@
 ---
-title: <span style=\"font-size:75%\">**대전 반려동물 공원**</span>
+title: 대전 반려동물 공원
 date: 2024-09-20
 ---
 

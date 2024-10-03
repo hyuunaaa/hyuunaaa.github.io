@@ -165,7 +165,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Activities
+      title: Interests
       count: 3
       offset: 0
       order: desc
