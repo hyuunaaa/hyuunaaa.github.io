@@ -141,7 +141,7 @@ sections:
           align: center
           background:
             image:
-              filename: aboutme.jpg
+              filename: about me.jpg
               filters:
                 brightness: 0.4
             position: center
