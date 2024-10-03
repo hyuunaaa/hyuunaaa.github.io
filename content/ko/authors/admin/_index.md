@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김현아
+title: "<span style=\"font-size:40%\">**김현아**</span>"
 
 # Full Name (for SEO)
 first_name: Hyuna
