@@ -22,8 +22,8 @@ publishDate: '2024-03-20'
 publication_types: ['article-journal']
 
 abstract: |
- <div class="justify-content">
- **목차**:  
+  <div class="justify-content">
+  **목차**:  
 
   **3.1 오픈소스 정의**
   오픈소스(Open Source)는 컴퓨터 프로그램을 개발하는 과정에 필요한 프로그래밍 소스코드를 누구나 접근해서 열람할 수 있도록 공개한 것을 오픈소스라고 하며, 우리가 흔히 사용하는 웹브라우저, 게임, 채팅, 워드 프로그램 등 대부분 프로그램에서 사용되고 있다. GNU, github, coeproject, codeguru 등이 소스코드를 다운로드 받을 수 있는 대표적인 오픈소스 사이트이며 각각의 오픈소스는 완전 무료, 일부 유료, 저작권 표시 필수 등의 라이선스 정책을 가지고 있다.
