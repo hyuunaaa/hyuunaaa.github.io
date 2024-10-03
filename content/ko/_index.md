@@ -22,7 +22,7 @@ sections:
 
   - block: markdown
     content:
-      title: About me
+      title: "<span style=\"font-size:75%\">**About me**</span>"
       text: |- 
         <span class="justified-text" style="color: gray;">
         최종적으로 행복하게 하고싶은 것 다하면서 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
@@ -47,7 +47,7 @@ sections:
           icon_pack: fas
           description: "<span style=\"font-size:90%\">데이먼스 이어, 릴러말즈, 저스틴비버</span>"
         - name: 영화
-          icon: camera-movie
+          icon: film
           icon_pack: fas
           description: "<span style=\"font-size:90%\">해리포터, 토이스토리, 타이타닉</span>"
         - name: 운동
