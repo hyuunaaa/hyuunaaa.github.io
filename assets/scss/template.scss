@@ -47,4 +47,12 @@ header, nav {
 /* 양쪽 정렬 클래스 */
 .text-justify {
   text-align: justify;
+  margin: 0; /* 여백 제거 */
+  padding: 0; /* 패딩 제거 */
+  width: 100%; /* 전체 너비 사용 */
+}
+
+.container, .content {
+  max-width: 100%;
+  padding: 0 20px; /* 좌우에 약간의 여백을 주고 싶다면 추가 */
 }
