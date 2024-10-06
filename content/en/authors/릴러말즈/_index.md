@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 릴러말즈
+title: Leellamarz
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,17 +8,17 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 릴러말즈
+  - Leellamarz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 래퍼/가수
+role: rapper/singer
 
 # Organizations/Affiliations
 organizations:
-  - name: 제일 좋아하는 노래> Gone, 2AM, 끝나지 않은 얘기
+  - name: favorite songs> Gone, 2AM, 끝나지 않은 얘기
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요

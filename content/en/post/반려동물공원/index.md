@@ -1,35 +1,27 @@
 ---
-title: 대전 반려동물 공원
+title: Daejeon Pet Park
 date: 2024-09-20
 ---
 
-2022년 6월 정식 개장한 대전반려동물공원은 대전 유성구 금고동에 위치하고 있습니다. 야트막한 동산 아래 자리한 이곳은 여유로운 주차 공간과 천연잔디로 조성된 야외놀이터(소형견 놀이터, 중형견 놀이터), 그늘 쉼터, 플라워가든, 산책로가 있습니다. 실내 공간인 반려동물문화센터에는 실내놀이터, 휴게라운지, 카페, 펫샤워실이 있습니다. 반려동물과 함께 하는 동반자 모두 맘껏 뛰놀 수 있는 공간입니다. 
+Daejeon Pet Park, officially opened in June 2022, is located in Geumgodong, Yuseong-gu, Daejeon. Nestled at the base of a small hill, it features ample parking, natural grass playgrounds (for small and medium-sized dogs), shaded rest areas, a flower garden, and walking paths. The indoor Pet Culture Center includes a playground, lounge, café, and pet shower room, providing a space for both pets and their companions to enjoy.
 
+**Behavior Correction Program**  
+Customized behavior correction education for pet owners and their dogs.  
+- **Duration**: Year-round (by batch), held 2-3 times a week (subject to change).  
+- **Location**: Animal Behavior Education Room, 1st floor of the Pet Culture Center.  
+- **Registration**: First-come, first-served via Daejeon OK Reservation Service.  
+- **Fee**: Free
 
-**행동교정교육 프로그램**
-보호자와 반려견이 함께하는 맞춤형 문제행동교정 교육
+**Pet Sports Experience Program**  
+Agility (obstacle running) training to enhance bonding and communication between pets and their owners.  
+- **Duration**: Year-round (by batch), held once a week.  
+- **Location**: Indoor playground or outdoor training area, 1st floor of the Pet Culture Center.  
+- **Registration**: First-come, first-served via Daejeon OK Reservation Service.  
+- **Fee**: Free
 
-기간연중(기수별로 진행), 주 2~3회 실시(변동 가능)
-* 교육 일정은 사정에 따라 변동될 수 있습니다.
-* 장소반려동물문화센터 1층 동물행동교육실
-* 신청방법대전OK예약서비스에서 선착순 접수
-* 참가비무료
-
-
-**반려견 스포츠 체험교육 프로그램**
-보호자와 반려견이 함께하는 어질리티(장애물 달리기) 체험 교육으로 교감·소통 및 유대감을 높여 행복한 반려관계 형성
-
-기간연중(기수별로 진행), 주 1회 실시
-* 교육 일정은 사정에 따라 변동될 수 있습니다.
-* 장소반려동물문화센터 1층 실내놀이터 또는 야외훈련장
-* 신청방법대전OK예약서비스에서 선착순 접수
-* 참가비무료
-
-**수제간식 만들기 프로그램**
-반려동물에게 직접 간식을 만들어주는 프로그램
-
-* 기간연중(기수별로 진행), 주 1회 실시
-* 교육 일정 및 내용은 사정에 따라 변동될 수 있습니다.
-* 장소반려동물문화센터 2층 교육·세미나실
-* 신청방법대전OK예약서비스에서 선착순 접수
-* 참가비교육비 무료, 재료비 별도(상시변경)
+**Homemade Pet Snack Program**  
+A program for making snacks for pets.  
+- **Duration**: Year-round (by batch), held once a week.  
+- **Location**: Education/Seminar Room, 2nd floor of the Pet Culture Center.  
+- **Registration**: First-come, first-served via Daejeon OK Reservation Service.  
+- **Fee**: Free for the class, material costs are extra (subject to change).

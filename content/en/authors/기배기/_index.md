@@ -1,24 +1,24 @@
 ---
 # Display name
-title: 기배기
+title: Gibaegi
 
 # Full Name (for SEO)
-first_name: Student
+first_name: puppy
 last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 기배기
+  - Gibaegi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 강아지
+role: puppy
 
 # Organizations/Affiliations
 organizations:
-  - name: 8개월 된 아기강아지
+  - name: 8month puppy
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
@@ -26,8 +26,7 @@ avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
 # Short bio (displayed in user profile at end of posts)
 # Short bio (displayed in user profile at end of posts)
 bio: |
-  2024.2월생 ...
-
+  born in Feb, 2024
 # interests:
 #   - 
 

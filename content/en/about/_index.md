@@ -16,13 +16,13 @@ sections:
     content:
       slides:
 
-      # 1. MBTI 검사 사이트
-      - title: <span style="font-size:90%">MBTI 검사 사이트</span>
-        content: <span style="font-size:90%">심리검사 테스트를 해볼 수 있는 사이트입니다. 구글 애드센스로 광고 수입을 받기 위해 만들었으나, 현재는 외주로 수익을 내고 있습니다.</span>
+      # 
+      - title: 
+        content: <span style="font-size:90%"></span>
         align: center
         background:
           image:
-            filename: k_mbti.png
+            filename: 
             filters:
               brightness: 0.4
           position: center

@@ -1,23 +1,20 @@
 ---
-title: 식품연-데이터 테스트
+title: Food Research Institute - Data Testing
 date: 2024-03-27
-tags: ['식품연구원', '점성추정테스트']
+tags: ['Food Research Institute', 'Viscosity Estimation Test']
 ---
-
 
 <!--more-->
 
-1. **데이터 전처리**  
-- 무의미한 데이터를 삭제하는 과정이 있다.
-- 냉각이 없는 경우, 최대 온도 이후의 데이터를 삭제하는 방식이 있다.
-- 냉각이 있는 경우, 냉각 이후의 데이터를 삭제하는 방식이 있다.
+1. **Data Preprocessing**  
+- Remove meaningless data.
+- If cooling is not present, delete data after the maximum temperature.
+- If cooling is present, delete data after the cooling phase.
 
-2. **예측 방법**  
-- LSTM(Long Short-Term Memory) 모델을 활용하여 점성을 예측하고자 한다.
-- LSTM이 시계열 데이터 처리에 적절하다는 점이 언급되어 있다.
-- 고정된 크기의 데이터를 활용하는 CNN(Convolutional Neural Network)은 이 실험에 적합하지 않다는 설명이 있다.
+2. **Prediction Method**  
+- Use the LSTM (Long Short-Term Memory) model for viscosity prediction.
+- Highlight that LSTM is suitable for time-series data.
+- Explain that CNN (Convolutional Neural Network) is not appropriate due to the need for fixed-size data.
 
-
-
-**링크**  
-[현아의 개발연습](https://hyuunaaa.github.io/)
+**Link**  
+[Hyun-Ah's Development Practice](https://hyuunaaa.github.io/)

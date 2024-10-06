@@ -1,33 +1,29 @@
 ---
-title: 오픈소스 아이디어 해커톤(진행중)
+title: Open Source Idea Hackathon (Ongoing)
 date: 2024-10-2
-tags: ['오픈소스', '해커톤', ]
+tags: ['Open Source', 'Hackathon']
 ---
-
-
 
 <!--more-->
 
-## 캠프 안내
+## Camp Overview
 
-1. **행사 개요**  
-   일정: 2024년 11월 9일(토) ~ 11월 10일(일)
-   장소: 베스트웨스턴플러스 전주 호텔
-   대상: 전북특별자치도 소재 4년제 대학 재학 학부생 (휴학생은 불가)
-   팀 구성: 3인 1팀, 총 45팀(선착순)
-   주제: 정보보안 및 대학정보시스템에 대한 모의 해킹 및 분석
-   참여 혜택: 숙식 및 식사 제공, 교통비 지원, 기념품 증정, GPU 탐색 가상머신 제공 등
+1. **Event Details**  
+   - Date: November 9 (Sat) - November 10 (Sun), 2024  
+   - Venue: Best Western Plus Jeonju Hotel  
+   - Participants: Undergraduate students at four-year universities in Jeonbuk (no leave of absence allowed)  
+   - Team: 3 members per team, total of 45 teams (first-come, first-served)  
+   - Theme: Simulation hacking and analysis of information security and university systems  
+   - Benefits: Meals, accommodation, travel expenses, souvenirs, GPU virtual machine access, etc.
 
-2. **진행 절차**  
-   계획안 수립 및 안내: 2023년 9월 23일(토) ~ 27일(수)
-   신청서 접수: 2024년 10월 1일(화) ~ 10월 10일(목)
-   청서 심사: 2024년 10월 11일(금) ~ 14일(월)
-   팀 확정 및 개별 안내: 2024년 10월 31일(화)
-   해커톤 행사 진행: 2024년 11월 9일(토) ~ 11월 10일(일)
+2. **Schedule**  
+   - Planning & Guidance: September 23 (Sat) - 27 (Wed), 2023  
+   - Application Submission: October 1 (Tue) - 10 (Thu), 2024  
+   - Application Review: October 11 (Fri) - 14 (Mon), 2024  
+   - Team Confirmation & Notification: October 31 (Tue), 2024  
+   - Hackathon Event: November 9 (Sat) - 10 (Sun), 2024  
 
-3. **시상 내역**  
-   대상: 1팀, 1,000,000원
-   최우수상: 2팀, 각 500,000원
-   우수상: 3팀, 각 300,000원
-
-
+3. **Awards**  
+   - Grand Prize: 1 team, 1,000,000 KRW  
+   - Excellence Prize: 2 teams, 500,000 KRW each  
+   - Merit Prize: 3 teams, 300,000 KRW each  

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김현아
+title: Hyuna Kim
 
 # Full Name (for SEO)
 first_name: Hyuna
@@ -14,30 +14,30 @@ authors:
 superuser: true
 
 # Role/position
-role: 학부생
+role: undergraduate student
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교 IT지능정보공학과
+  - name: Jeonbuk National University Department of Computer Science
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.(admin)
+bio: My goal is to live happily, and to achieve this, I strive to do my best in the tasks given to me. I am currently learning deep learning and image processing in the CV lab, and recently, I have developed an interest in the security field and have been studying it.(admin)
 
 
 interests:
-  - 인공지능 및 딥러닝
-  - 영상처리
-  - 리버스 엔지니어링
-  - 시스템 보안
+  - Artificial Intelligence and Deep Learning
+  - Image Processing
+  - Reverse Engineering
+  - System Security
 
 
 education:
   courses:
-    - course: IT지능정보공학과
-      institution: 전북대학교
-    - course: 인문계
-      institution: 대덕고등학교
+    - course: Department of Computer Science
+      institution: Jeonbuk National University
+    - course: General High School
+      institution: Deadok Highschool
 
 
 # Social/Academic Networking
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-행복하게 하고싶은 것 다하면서 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
+My goal is to live happily, and to achieve this, I strive to do my best in the tasks given to me. I am currently learning deep learning and image processing in the CV lab, and recently, I have developed an interest in the security field and have been studying it.
