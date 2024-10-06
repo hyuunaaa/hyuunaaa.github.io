@@ -1,26 +1,11 @@
 ---
-title: OOOO
-date: 2024-03-29
-tags: ['태그#1', '태그#2']
+title: 리버스엔지니어링 스터디
+date: 2024-09-29
+tags: ['스터디', '리버스엔지니어링']
 ---
 
-OOOOOOOOOOOOOOOOOOOOO
+RAMS에서 진행하는 리버스엔지니어링 스터디에 매주 목요일마다 참여하고 있다.
 
 <!--more-->
 
-1. **지점 위치 표시 지도 제작**  
-OOOOOOOOOOOOOOOOOOOOO
-
-2. **마커 표시 및 상세 정보 제공**  
-OOOOOOOOOOOOOOOOOOOOO
-
-3. **필터링 기능**  
-OOOOOOOOOOOOOOOOOOOOO
-
-**프로젝트 의의 및 성과**  
-OOOOOOOOOOOOOOOOOOOOO
-
-OOOOOOOOOOOOOOOOOOOOO
-
-**링크**  
-[OOOO](https://ooo.oo.com)
+"abexcm1.exe" 프로그램을 리버싱하는 과정을 배우며, x64dbg 디버거를 사용해 프로그램의 흐름을 추적하고, 특정 조건에서 MessageBox를 분석하는 방법을 다루고 있다. 핵심은 GetDriveTypeA() 함수의 반환 값을 조작하여 프로그램이 원하는 방식으로 동작하도록 우회하는 방법이다. 레지스터의 값 변경 및 프로그램 코드 수정 방법도 포함되어 있다.
