@@ -1,5 +1,5 @@
 ---
-title: A Writing About My Interests
+title: Publications
 
 # Listing view
 view: community/custom_compact

@@ -1,11 +1,11 @@
 ---
-title: Activity-Awards
+title: Univ-activites
 type: landing
 
 sections:
   - block: accomplishments
     content:
-      title: 경력
+      title: Activities
       subtitle: '활동 내역'
       text: ''
       items:
