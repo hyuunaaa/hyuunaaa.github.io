@@ -62,8 +62,8 @@ sections:
         - title: 큰사람프로젝트 참여
           certificate_url: ''
           date_start: '01 Mar 2022'
-          date_end: '~'
-          description: |
+          date_end: |
+          description: '진행 중'
           icon: academic-cap
           organization: 전북대학교
           organization_url: ''
@@ -72,8 +72,8 @@ sections:
         - title: 과동아리 RAMS 참여
           certificate_url: ''
           date_start: '01 Sep 2024'
-          date_end: '~'
-          description: |
+          date_end: |
+          description: '진행 중'
           icon: academic-cap
           organization: 전북대학교
           organization_url: ''
