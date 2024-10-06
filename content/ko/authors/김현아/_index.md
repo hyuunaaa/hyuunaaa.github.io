@@ -18,7 +18,7 @@ role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: '**Hyuna''s Blog**'
+  - name: 'Hyuna''s Portfolio'
     url: 'https://hyuunaaa.github.io/'
 
 
@@ -26,11 +26,11 @@ organizations:
 bio: 자기소개합니다.
 
 interests:
-  - 안녕하쇼
-  - 관심분야#2
-  - 관심분야#3
-  - 관심분야#4
-  - 관심분야#5
+  - 인공지능 및 딥러닝
+  - 영상처리
+  - 리버스 엔지니어링
+  - 시스템보안
+  
 
 education:
   courses:
@@ -72,6 +72,5 @@ user_groups:
 
 ---
 
-OOOO입니다.
-
+행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
 
