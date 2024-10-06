@@ -48,10 +48,10 @@ sections:
           icon: plane
           icon_pack: fas
           description: "<span style=\"font-size:90%\">미국, 캐나다, 일본, 이탈리아, 호주</span>"
-          
+
   - block: people
     content:
-      title: My Favorite Things
+      title: "<span style=\"font-size:75%\">**My Favorites**</span>"
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
