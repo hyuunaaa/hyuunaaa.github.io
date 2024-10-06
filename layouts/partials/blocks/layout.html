@@ -10,7 +10,9 @@
           <img src="{{ .src | absURL }}" alt="{{ .alt }}" style="max-width: 100%; border-radius: 10px;">
         </div>
         {{ end }}
-  
+        
+        <link rel="icon" href="images/footpring.png" type="image/png">
+
         <!-- Check if the block contains markdown content -->
         {{ with .content.markdown }}
         <div class="block-text">
