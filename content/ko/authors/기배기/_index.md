@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 집지키기
+role: 강아지
 
 # Organizations/Affiliations
 organizations:
-  - name: 강아지
+  - name: 8개월 된 아기강아지
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요

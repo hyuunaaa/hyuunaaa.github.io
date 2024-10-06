@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 강아지
+role: 영화
 
 # Organizations/Affiliations
 organizations:
-  - name: 강아지
+  - name: 장난감들마다 특징이 잘들어나서 귀엽고 스토리도 탄탄해서 계속 돌려보게 되는 영화
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
