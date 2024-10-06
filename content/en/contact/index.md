@@ -9,15 +9,16 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:80%">전북대학교 IT지능정보공학과 김현아 </span> <br>
+        <br> <span style="font-size:80%">Jeonbuk National University | Departments of Computer Science | Hyuna Kim </span> <br>
       email: chris2cloe@naver.com
       phone: 010-6488-6008
       address:
-        street: 전북대학교
-        city: 전주시
-        region: 전라북도
+        street: Jeonbuk National University
+        city: Jeonju
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: South Korea
+
         country_code: KO
       coordinates:
         latitude: '35.84601324617'

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김현아
+title: Hyuna Kim
 
 # Full Name (for SEO)
 first_name: Hyuna 
@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 학부생
+role: undergraduate student
 
 # Organizations/Affiliations
 organizations:
@@ -23,21 +23,21 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 인공지능과 보안을 공부 중인 김현아입니다.
+bio: I am Hyuna Kim, currently studying Artificial Intelligence and Security.
 
 interests:
-  - 인공지능 및 딥러닝
-  - 영상처리
-  - 리버스 엔지니어링
-  - 시스템보안
-  
+  - Artificial Intelligence and Deep Learning
+  - Image Processing
+  - Reverse Engineering
+  - System Security
+
 
 education:
   courses:
-    - course: 컴퓨터공학부
-      institution: 전북대학교(JBNU)
-    - course: 인문계
-      institution: 대덕고등학교
+    - course: Department of Computer Science
+      institution: Jeonbuk National University
+    - course: General High School
+      institution: Deadok Highschool
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,12 +72,12 @@ user_groups:
 
 ---
 
-행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
+My goal is to live happily, and to achieve this, I strive to do my best in the tasks given to me. I am currently learning deep learning and image processing in the CV lab, and recently, I have developed an interest in the security field and have been studying it.
 
 **GOALS**
 
-- 이번 학기 학점 4.0 맞기  
-- 보안 연구실 지원  
-- 카이스트 정보보호대학원 진학 & 석사 수료  
-- 국정원 취직  
-- 행복하게 살기!
+- Achieve a GPA of 4.0 this semester
+- Join a security research lab
+- Get admitted to KAIST Graduate School of Information Security & complete a master's degree
+- Work at the National Intelligence Service
+- Live happily!

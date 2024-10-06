@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 토이스토리
+title: Toy story
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,17 +8,17 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 영화
+  - movie
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 영화
+role: movie
 
 # Organizations/Affiliations
 organizations:
-  - name: 장난감들마다 특징이 잘들어나서 귀엽고 스토리도 탄탄해서 계속 돌려보게 되는 영화
+  - name: It’s a movie where each toy's characteristics are well expressed, making them adorable. The storyline is solid, which makes it enjoyable to watch repeatedly.
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요

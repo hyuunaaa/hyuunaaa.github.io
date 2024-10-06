@@ -1,11 +1,11 @@
 ---
-title: 리버스엔지니어링 스터디
+title: Reverse Engineering Study
 date: 2024-09-29
-tags: ['스터디', '리버스엔지니어링']
+tags: ['Study', 'Reverse Engineering']
 ---
 
-RAMS에서 진행하는 리버스엔지니어링 스터디에 매주 목요일마다 참여하고 있다.
+I participate in the reverse engineering study held by RAMS every Thursday.
 
 <!--more-->
 
-"abexcm1.exe" 프로그램을 리버싱하는 과정을 배우며, x64dbg 디버거를 사용해 프로그램의 흐름을 추적하고, 특정 조건에서 MessageBox를 분석하는 방법을 다루고 있다. 핵심은 GetDriveTypeA() 함수의 반환 값을 조작하여 프로그램이 원하는 방식으로 동작하도록 우회하는 방법이다. 레지스터의 값 변경 및 프로그램 코드 수정 방법도 포함되어 있다.
+The study involves learning the process of reverse engineering the "abexcm1.exe" program. We use the x64dbg debugger to trace the program's flow and analyze how the MessageBox operates under specific conditions. The key aspect is bypassing the program's operation by manipulating the return value of the GetDriveTypeA() function. It also covers changing register values and modifying the program code.

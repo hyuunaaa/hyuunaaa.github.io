@@ -1,7 +1,7 @@
 ---
-title: 리버스엔지니어링 온라인과정 수료 및 오프라인 챌린지 참여
+title: Completion of Online Reverse Engineering Course and Participation in Offline Challenge
 date: 2024-07-19
-tags: ['리버스엔지니어링', '대회']
+tags: ['Reverse Engineering', 'Competition']
 ---
 
-한국인터넷진흥원에서 실시하는 2024 실전형 사이버훈련장(침해사고 대응훈련) 리버스 엔지니어링 과정을 수료하고, 30명 내에 뽑혀 판교에서 열린 전북지역 대학생 특별 과정 미니 챌린지(리버스 코드 엔지니어링)에 참여하였다.
+I completed the 2024 Reverse Engineering course offered by the Korea Internet & Security Agency (KISA) as part of the Practical Cyber Training Ground (Incident Response Training). I was selected among the top 30 participants and took part in the Mini Challenge (Reverse Code Engineering) special course for university students in the Jeonbuk region, held in Pangyo.
