@@ -15,7 +15,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '현아의 개발연습'
+    org_name: '전북대학교 컴퓨터인공지능학부 김현아'
     description: '전북대학교 컴퓨터인공지능학부 김현아'
     twitter: 'GetResearchDev'
   services:
@@ -42,7 +42,7 @@ header:
     highlight_active_link: false
     logo:
       text: ""  # Text for logo (if any)
-      filename: "icon.jpg"  # Ensure the file exists in `assets/media/`
+      filename: "haicon.jpg"  # Ensure the file exists in `assets/media/`
     button:
       enable: true
       text: "김현아"
@@ -127,4 +127,4 @@ organization_url: 'https://https://it.jbnu.ac.kr/it/index.do'
 email: 'chris2cloe@naver.com'
 
 # ogImage setting (Optional)
-ogImage: "assets/media/icon.jpg"  # Ensure the image exists at this path
+ogImage: "assets/media/haicon.jpg"  # Ensure the image exists at this path

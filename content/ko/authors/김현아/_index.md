@@ -23,7 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 자기소개합니다.
+bio: 인공지능과 보안을 공부 중인 김현아입니다.
 
 interests:
   - 인공지능 및 딥러닝
@@ -36,8 +36,8 @@ education:
   courses:
     - course: 컴퓨터공학부
       institution: 전북대학교(JBNU)
-    - course: 일반계(이공계열)
-      institution: OOO고등학교
+    - course: 인문계
+      institution: 대덕고등학교
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
