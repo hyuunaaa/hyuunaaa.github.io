@@ -1,5 +1,5 @@
 ---
-title: News
+title: Interests
 
 # Listing view
 view: community/custom_card

@@ -7,5 +7,5 @@ view: list
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'recruitment.jpg'
+  image: 'k_wallpaper.jpg'
 ---

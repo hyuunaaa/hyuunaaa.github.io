@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 기배기
+title: 애리조나
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,25 +8,23 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 기배기
+  - 애리조나
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 강아지
+role: 미국에서 살았던 곳
 
 # Organizations/Affiliations
 organizations:
-  - name: 8개월 된 아기강아지
+  - name: 사막쪽이라 여름엔 40도가 넘어가는 무지막지한 날씨였지만 그거 빼곤 모든게 그리운 곳
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
 
 # Short bio (displayed in user profile at end of posts)
-# Short bio (displayed in user profile at end of posts)
-bio: |
-  2024.2월생 ...
+# bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
 
 # interests:
 #   - 

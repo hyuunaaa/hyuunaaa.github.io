@@ -1,5 +1,5 @@
 ---
-title: A Writing About My Interests
+title: Publications
 
 # Listing view
 view: community/custom_compact
@@ -7,5 +7,5 @@ view: community/custom_compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'researchpaper.jpg'
+  image: 'researchpaper2.jpg'
 ---

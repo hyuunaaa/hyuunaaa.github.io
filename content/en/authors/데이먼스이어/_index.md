@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 기백이
+title: 데이먼스이어
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,17 +8,17 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 기백이
+  - 데이먼스이어
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 귀요미 담당
+role: 가수
 
 # Organizations/Affiliations
 organizations:
-  - name: 집돌이
+  - name: 제일 좋아하는 노래> yours, josee!, Busan, 너의 기사
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요

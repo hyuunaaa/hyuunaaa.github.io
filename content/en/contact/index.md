@@ -9,9 +9,9 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부 22학번 김현아 </span> <br>
-      email: cloe@naver.com
-      phone: 010-xxxx-xxxx
+        <br> <span style="font-size:80%">전북대학교 IT지능정보공학과 김현아 </span> <br>
+      email: chris2cloe@naver.com
+      phone: 010-6488-6008
       address:
         street: 전북대학교
         city: 전주시
@@ -20,8 +20,8 @@ sections:
         country: 대한민국
         country_code: KO
       coordinates:
-        latitude: '35.84601324617979'
-        longitude: '127.13444961966684'
+        latitude: '35.84601324617'
+        longitude: '127.13444961966'
       directions: 
       #contact_links:
       #  - icon: comments

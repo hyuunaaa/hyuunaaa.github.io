@@ -3,7 +3,7 @@
 title: 김현아
 
 # Full Name (for SEO)
-first_name: Hyuna 김현아
+first_name: Hyuna 
 last_name: Kim
 
 # Username (this should match the folder name)
@@ -14,30 +14,30 @@ authors:
 superuser: true
 
 # Role/position
-role: 대학생
+role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: 현아의 개발연습
+  - name: 'Hyuna''s Portfolio'
     url: 'https://hyuunaaa.github.io/'
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 자기소개합니다.
+bio: 인공지능과 보안을 공부 중인 김현아입니다.
 
 interests:
-  - 관심분야#1
-  - 관심분야#2
-  - 관심분야#3
-  - 관심분야#4
-  - 관심분야#5
+  - 인공지능 및 딥러닝
+  - 영상처리
+  - 리버스 엔지니어링
+  - 시스템보안
+  
 
 education:
   courses:
     - course: 컴퓨터공학부
       institution: 전북대학교(JBNU)
-    - course: 일반계(이공계열)
-      institution: OOO고등학교
+    - course: 인문계
+      institution: 대덕고등학교
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,4 +72,12 @@ user_groups:
 
 ---
 
-OOOO입니다.
+행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
+
+**GOALS**
+
+- 이번 학기 학점 4.0 맞기  
+- 보안 연구실 지원  
+- 카이스트 정보보호대학원 진학 & 석사 수료  
+- 국정원 취직  
+- 행복하게 살기!

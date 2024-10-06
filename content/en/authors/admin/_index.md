@@ -14,28 +14,30 @@ authors:
 superuser: true
 
 # Role/position
-role: 대학생
+role: 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: 현아의 OOO
+  - name: 전북대학교 IT지능정보공학과
     url: 'https://hyuunaaa.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: OOOOOOOOOOOOO입니다.(admin)
+bio: 행복하게 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.(admin)
+
 
 interests:
-  - 컴퓨터 ...
-  - 리버스엔지니어링
-  - 관심분야#3
-  - 관심분야#4
+  - 인공지능 및 딥러닝
+  - 영상처리
+  - 리버스 엔지니어링
+  - 시스템 보안
+
 
 education:
   courses:
-    - course: 컴퓨터공학부
-      institution: 전북대학교(JBNU)
-    - course: 일반계(이공계열)
-      institution: 고등학교
+    - course: IT지능정보공학과
+      institution: 전북대학교
+    - course: 인문계
+      institution: 대덕고등학교
 
 
 # Social/Academic Networking
@@ -45,7 +47,7 @@ education:
 social:
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/test/
+    link: https://www.instagram.com/hyuunaa_/
   - icon: github
     icon_pack: fab
     link: https://github.com/hyuunaaa
@@ -72,4 +74,4 @@ user_groups:
 
 ---
 
-test2222프로그래밍 & 리버싱에 관심이 많습니다. 이런 내용 위주로 작성
+행복하게 하고싶은 것 다하면서 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
