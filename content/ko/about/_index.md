@@ -1,4 +1,5 @@
 ---
+/*
 # Leave the homepage title empty to use the site title
 title: 경험
 date: 2024-03-25
@@ -21,7 +22,7 @@ sections:
         align: center
         background:
           image:
-            filename: mbti.png
+            filename: k_mbti.png
             filters:
               brightness: 0.4
           position: center
@@ -42,7 +43,7 @@ sections:
         align: center
         background:
           image:
-            filename: 영어사이트.png
+            filename: a_english site.png
             filters:
               brightness: 0.4
           position: center
@@ -60,7 +61,7 @@ sections:
         align: center
         background:
           image:
-            filename: 쇼핑스팟.png
+            filename: a_shopingspot.png
             filters:
               brightness: 0.4
           position: center
@@ -79,7 +80,7 @@ sections:
         align: center
         background:
           image:
-            filename: 관리자.png
+            filename: a_gwanri.png
             filters:
               brightness: 0.4
           position: center
@@ -97,7 +98,7 @@ sections:
         align: center
         background:
           image:
-            filename: 리액트외주.png
+            filename: a_react.png
             filters:
               brightness: 0.4
           position: center
@@ -122,3 +123,4 @@ sections:
   #       <br>
   
 ---
+*/

@@ -124,7 +124,7 @@ sections:
           align: center
           background:
             image:
-              filename: 런닝.jpg
+              filename: a_running.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -141,7 +141,7 @@ sections:
           align: center
           background:
             image:
-              filename: 공부.jpg
+              filename: a_study.jpg
               filters:
                 brightness: 0.4
             position: center
