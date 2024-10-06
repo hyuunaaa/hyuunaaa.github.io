@@ -74,3 +74,4 @@ sections:
           date_start: '01 Sep 2024'
           date_end: |
           description: 'Ongoing'
+---
