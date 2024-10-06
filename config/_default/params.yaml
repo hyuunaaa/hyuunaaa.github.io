@@ -127,4 +127,4 @@ organization_url: 'https://https://it.jbnu.ac.kr/it/index.do'
 email: 'chris2cloe@naver.com'
 
 # ogImage setting (Optional)
-ogImage: "assets/media/logo.png"  # Ensure the image exists at this path
+ogImage: "assets/media/icon.jpg"  # Ensure the image exists at this path
