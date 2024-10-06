@@ -18,7 +18,7 @@ role: 래퍼/가수
 
 # Organizations/Affiliations
 organizations:
-  - name: 제일 좋아하는 노래: Gone, 2AM, 끝나지 않은 얘기
+  - name: 제일 좋아하는 노래> Gone, 2AM, 끝나지 않은 얘기
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
