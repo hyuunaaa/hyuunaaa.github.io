@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 토이스토리
+title: 애리조나
 
 # Full Name (for SEO)
 first_name: Student
@@ -8,17 +8,17 @@ last_name: 1
 
 # Username (this should match the folder name)
 authors:
-  - 영화
+  - 애리조나
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 영화
+role: 미국에서 살았던 곳
 
 # Organizations/Affiliations
 organizations:
-  - name: 장난감들마다 특징이 잘들어나서 귀엽고 스토리도 탄탄해서 계속 돌려보게 되는 영화
+  - name: 사막쪽이라 여름엔 40도가 넘어가는 무지막지한 날씨였지만 그거 빼곤 모든게 그리운 곳
 
 # Profile image (avatar)
 avatar: avatar.jpg  # 프로필 이미지의 파일 경로를 작성하세요
