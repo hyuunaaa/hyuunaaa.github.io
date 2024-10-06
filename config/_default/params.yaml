@@ -9,6 +9,7 @@ appearance:
   theme_day: light
   font: native
   font_size: L
+  favicon: "footprint.png"  # 파비콘 경로 추가
 
 # SEO and marketing settings
 marketing:
