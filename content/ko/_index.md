@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 메인페이지
+title: 포트폴리오
 date: 2024-03-25
 type: landing
 sections:
