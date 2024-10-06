@@ -1,6 +1,3 @@
-Here is the translation in code format:
-
-```markdown
 ---
 title: 'Artificial Intelligence and Security'
 
@@ -72,5 +69,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-```
-
