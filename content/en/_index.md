@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 개인페이지
+title: mypage
 date: 2024-03-25
 type: landing
 sections:
@@ -25,7 +25,7 @@ sections:
       title: "<span style=\"font-size:75%\">**About me**</span>"
       text: |- 
         <span class="justified-text" style="color: gray;">
-        최종적으로 행복하게 하고싶은 것 다하면서 사는 것이 목표이며, 이를 위해 현재 주어진 일에 최선을 다하고자 합니다. CV 연구실에서 딥러닝과 영상처리를 배우고 있으며, 최근에는 보안 분야에도 관심이 높아져 공부해보는 중입니다.
+        My goal is to live happily, and to achieve this, I strive to do my best in the tasks given to me. I am currently learning deep learning and image processing in the CV lab, and recently, I have developed an interest in the security field and have been studying it.
         </span>
 
   #- block: features
@@ -63,13 +63,13 @@ sections:
   - block: features
     content:
       title: "<span style=\"font-size:70%\">**Hyuna's Portfolio**</span>"
-      text: "<br><span style=\"font-size:125%\">김현아의 포트폴리오 사이트에 오신 것을 환영합니다.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
+      text: "<br><span style=\"font-size:125%\">Welcome to Hyuna Kim's portfolio website.</span> <br><br>{{% cta cta_link=\"./field/\" cta_text=\"더보기 →\" %}}"
 
   - block: slider
     content:
       slides:
         - title: "<span style=\"font-size:70%\">**Activities**</span>"
-          content: "<span style=\"font-size:70%\">대학에서의 다양한 활동</span>"
+          content: "<span style=\"font-size:70%\">Various Activities in University</span>"
           align: center
           background:
             image:
@@ -86,7 +86,7 @@ sections:
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/three-person-pointing-the-silver-laptop-computer-2FPjlAyMQTA"
 
         - title: "<span style=\"font-size:70%\">**Interests**</span>"
-          content: "<span style=\"font-size:70%\">진로, 취업, 영화 등등</span>"
+          content: "<span style=\"font-size:70%\">Career, Employment, Movies, etc.</span>"
           align: center
           background:
             image:
@@ -103,7 +103,7 @@ sections:
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%92%80%EB%B0%AD%EC%97%90%EC%84%9C-%EB%8B%AC%EB%A6%AC%EB%8A%94-%ED%9D%B0%EC%83%89-shih-tzu-%EA%B0%95%EC%95%84%EC%A7%80%EC%9D%98-%EC%96%95%EC%9D%80-%EC%B4%88%EC%A0%90-%EC%82%AC%EC%A7%84-qO-PIF84Vxg"
 
         - title: "<span style=\"font-size:70%\">**Contact**</span>"
-          content: "<span style=\"font-size:70%\">이메일, 연락처, 위치</span>"
+          content: "<span style=\"font-size:70%\">Email, Contact, Location</span>"
           align: center
           background:
             image:
@@ -120,7 +120,7 @@ sections:
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0-%ED%94%84%EB%A6%B0%ED%84%B0-%EC%A2%85%EC%9D%B4%EC%99%80-%EA%B2%80%EC%9D%80-%EB%B3%BC%ED%8E%9C-%EC%98%86%EC%97%90-%EC%8C%93%EC%9D%B8-%EC%B1%85-%EB%8D%94%EB%AF%B8-asviIGR3CPE"
 
         - title: "<span style=\"font-size:70%\">**Goals**</span>"
-          content: "<span style=\"font-size:70%\">대학원, 목표</span>"
+          content: "<span style=\"font-size:70%\">Graduate School, Goals</span>"
           align: center
           background:
             image:
@@ -137,7 +137,7 @@ sections:
             url: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/macbook-pro%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-744oGeqpxPQ"
 
         - title: "<span style=\"font-size:70%\">**Me**</span>"
-          content: "<span style=\"font-size:70%\">기배기</span>"
+          content: "<span style=\"font-size:70%\">gibaegi</span>"
           align: center
           background:
             image:
