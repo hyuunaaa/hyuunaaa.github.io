@@ -9,6 +9,8 @@ import DetailPage from './pages/DetailPage';
 import SearchPage from './pages/SearchPage';
 import SigninPage from './pages/Signin/Signin'; // 정확한 경로
 import HomePopular from './views/Home/HomePopular/HomePopular';
+import Home from './views/Home/Home';
+import HomeWishlist from './views/Home/HomeWishlist/HomeWishlist';
 import HomeSearch from './views/Search/HomeSearch';
 
 
