@@ -1,7 +1,7 @@
 // src/store/store.js
 import { configureStore } from '@reduxjs/toolkit';
 import wishlistReducer from './slices/wishlistSlice';
-import authReducer from './slices/authSlice'; // authSlice 임포트
+import authReducer from './slices/authSlice'; // ✅ 올바른 상대 경로
 
 // 스토어 설정
 const store = configureStore({
