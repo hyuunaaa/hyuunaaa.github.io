@@ -14,7 +14,7 @@ root.render(
       <App />
     </BrowserRouter>
   </Provider>
-);
+)
 
 // 앱 성능 측정 설정
 reportWebVitals();
